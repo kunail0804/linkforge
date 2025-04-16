@@ -1,38 +1,49 @@
-# sv
+# LinkForge
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+LinkForge is a modern application designed to simplify and enhance the way you manage and organize your work. With a focus on usability and performance, LinkForge provides a seamless experience for users looking to streamline their workflows.
 
-## Creating a project
+## Table of Contents
 
-If you're seeing this, you've probably already done this step. Congrats!
+1. [Purpose](#purpose)
+2. [Completed Features](#completed-features)
+3. [Planned Features](#planned-features)
+4. [Contributing](#contributing)
+   - [How to Contribute](#how-to-contribute)
+   - [Running the Project Locally](#running-the-project-locally)
 
-```bash
-# create a new project in the current directory
-npx sv create
+## Purpose
 
-# create a new project in my-app
-npx sv create my-app
-```
+The goal of LinkForge is to provide users with an intuitive platform to manage their worlflows efficiently, freely and without the least possible data.
 
-## Developing
+## Completed Features
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+none, we are currently in alpha
 
-```bash
-npm run dev
+## Planned Features
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+Come see our Roadme in the wiki !!
 
-## Building
+## Contributing
 
-To create a production version of your app:
+We welcome contributions from the community! Whether you're a developer, designer, or just a user with great ideas, your input is valuable.
 
-```bash
-npm run build
-```
+There is 3 ways to help us :
+- by sharing ideas
+- by creating plugins
+- by creating new core features or resolving bugs
 
-You can preview the production build with `npm run preview`.
+### Sharing ideas
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Not implemented yet.
+
+### Creating plugins
+
+Go see our wiki for a complete tutorial.
+
+### Creating core features and bugfixing
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes and push them to your fork.
+4. Open a pull request with a detailed description of your changes.
+5. Wait the validation of the team.
