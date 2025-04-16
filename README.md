@@ -8,8 +8,9 @@ LinkForge is a modern application designed to simplify and enhance the way you m
 2. [Completed Features](#completed-features)
 3. [Planned Features](#planned-features)
 4. [Contributing](#contributing)
-   - [How to Contribute](#how-to-contribute)
-   - [Running the Project Locally](#running-the-project-locally)
+   - [Sharing Ideas](#sharing-ideas)
+   - [Creating Plugins](#creating-plugins)
+   - [Creating Core Features and Bugfixing](#creating-core-features-and-bugfixing)
 
 ## Purpose
 
