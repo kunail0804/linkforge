@@ -25,3 +25,10 @@ vite.config.ts.timestamp-*
 
 # Paraglide
 src/lib/paraglide
+
+# Zip
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
